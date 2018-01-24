@@ -13,7 +13,7 @@ If you are logging in for the first time to Kupe, you will need to set up your a
 
 1. Access [My NeSI  Portal](https://my.nesi.org.nz) via your browser.
  ![logging-in](../../assets/img/portal_login.png)
-2. Log in using your institutional credentials via Tuakiri. See example below for logging in with NIWA credentals.
+2. Log in using your institutional credentials via Tuakiri. See example below for logging in with NIWA credentials.
 ![logging-in](../../assets/img/tuakiri_credentials.png)
 
 ![logging-in](../../assets/img/niwa_turakiri.png)

@@ -5,7 +5,7 @@ permalink: /lessons/pan/programming-environment/
 chapter: pan
 ---
 
-Please remember that compliling and building code should be done on the build nodes, not on the login node.
+Please remember that compiling and building code should be done on the build nodes, not on the login node.
 
 ## Compiling code on NeSI platforms
 
